@@ -5,7 +5,8 @@
     {
       name: Catppuccin
     }
-  "],semanticColors: {
+  ],
+  semanticColors: {
   ANDROID_NAVIGATION_SCRIM_BACKGROUND:["#0E0E0F"],
   ANDROID_RIPPLE:["#08D9D618"],
   BACKGROUND_ACCENT:["#a6e3a1"],
