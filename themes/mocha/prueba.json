@@ -1,6 +1,6 @@
 {"name":"Darkened Ice",
 "description":"A dark theme with cyan accents.",
-"authors":"Hiir":[{"name":"Azul"}],
+"authors":[{"name":"Azul"}],
 "semanticColors": {
   "ANDROID_NAVIGATION_SCRIM_BACKGROUND":["#0E0E0F"],
   "ANDROID_RIPPLE":["#08D9D618"],
