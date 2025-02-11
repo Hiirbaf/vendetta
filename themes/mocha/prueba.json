@@ -1,12 +1,7 @@
-{
-  name: Prueba - Sky,
-  description: Soothing pastel theme for the high-spirited!,
-  authors: [
-    {
-      name: Catppuccin
-    }
-  ],
-  semanticColors: {
+{"name":"Darkened Ice",
+"description":"A dark theme with cyan accents.",
+"authors":[{"name":"Purple_Ξye™"}],
+"semanticColors": {
   ANDROID_NAVIGATION_SCRIM_BACKGROUND:["#0E0E0F"],
   ANDROID_RIPPLE:["#08D9D618"],
   BACKGROUND_ACCENT:["#a6e3a1"],
