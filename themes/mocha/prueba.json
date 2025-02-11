@@ -77,7 +77,7 @@
   "background": {
         "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCityLite/bg.png",
         "alpha": 0.5,
-        "color": "#081924"}
+        "color": "#081924"},
   "plus": {
   "version":0,
   "mentionLineColor":"#08D9D6"}}
