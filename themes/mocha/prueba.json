@@ -3,7 +3,7 @@
 "authors":[{"name":"Azul"}],
 "semanticColors": {
   "ANDROID_NAVIGATION_SCRIM_BACKGROUND":["#0E0E0F"],
-  "ANDROID_RIPPLE":["#08D9D6"],
+  "ANDROID_RIPPLE":["#fbff03"],
   "BACKGROUND_ACCENT":["#29cf9d"],
   "BACKGROUND_MODIFIER_ACCENT":["#046B6B70"],
   "BACKGROUND_PRIMARY":["#081924"],
