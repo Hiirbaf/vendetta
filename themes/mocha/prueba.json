@@ -79,11 +79,10 @@
   "PRIMARY_600":"#0b080d",
   "PRIMARY_660":"#141314",
   "PRIMARY_800":"#111011"},
-  "spec":2,
-  "background": {
-        "url": "https://github.com/Hiirbaf/vendetta/raw/refs/heads/main/themes/mocha/e18d569d64cf505cea062b3cb55e6dfa.jpg",
+  "spec": 2,
+    "background": {
+        "url": "https://raw.githubusercontent.com/Wizzy-TV/VendettaThemes/main/PixelCityLite/bg.png",
         "alpha": 0.5,
-        "color": "#081924"},
-  "plus": {
-  "version":0,
-  "mentionLineColor":"#081924"}}
+        "color": "#081924"
+    }
+}
