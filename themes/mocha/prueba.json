@@ -8,9 +8,9 @@
   "BACKGROUND_MODIFIER_ACCENT":["#046B6B70"],
   "BG_MOD_STRONG":["#046B6B"],
   "BACKGROUND_PRIMARY":["#081924"],
-  "BACKGROUND_SECONDARY":["#0f3a59"],
+  "BACKGROUND_SECONDARY":["#081924"],
   "BACKGROUND_MENTIONED":["#08D9D615"],
-  "BG_BASE_TERTIARY":["#2a273f"],
+  "BG_BASE_TERTIARY":["#081923"],
   "BG_BASE_PRIMARY":["#081923"],
   "BG_BASE_SECONDARY":["#081923"],
   "BG_BRAND":["#08D9D695"],
@@ -70,8 +70,8 @@
   "PLUM_15":"#08D9D6",
   "PLUM_16":"#1D1D21",
   "PLUM_17":"#0E0E0F",
-  "PLUM_18":"#ffffff",
-  "PLUM_19":"#08D9D6",
+  "PLUM_18":"#111011",
+  "PLUM_19":"#046B6B",
   "PLUM_20":"#09090A",
   "PLUM_22":"#0E0E0F",
   "PLUM_24":"#191919",
@@ -83,7 +83,7 @@
   "background": {
         "url": "https://github.com/Hiirbaf/vendetta/raw/refs/heads/main/themes/mocha/e18d569d64cf505cea062b3cb55e6dfa.jpg",
         "alpha": 0.5,
-        "color": "#046B6B"},
+        "color": "#081924"},
   "plus": {
   "version":0,
   "mentionLineColor":"#08D9D6"}}
