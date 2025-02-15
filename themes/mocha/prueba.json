@@ -10,6 +10,15 @@
   "BACKGROUND_PRIMARY":["#081924"],
   "BACKGROUND_SECONDARY":["#081924"],
   "BACKGROUND_MENTIONED":["#08D9D615"],
+  "BORDER_FAINT": [
+      "#a79ab3"
+      ],
+      "BORDER_STRONG": [
+      "#a79ab3"
+      ],      
+      "BORDER_SUBTLE": [
+      "#a79ab3"
+      ],
   "BG_BASE_TERTIARY":["#081923"],
   "BG_BASE_PRIMARY":["#081923"],
   "BG_BASE_SECONDARY":["#081923"],
